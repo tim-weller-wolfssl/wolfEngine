@@ -41,6 +41,12 @@ First, replace the contents of `IDE\WIN10\user_settings.h` in wolfSSL with the
 contents of `windows\fips_140_2\user_settings.h` from wolfEngine. Then, compile
 wolfSSL using `IDE\WIN10\wolfssl-fips.sln`.
 
+### FIPS 140-3
+
+First, replace the contents of `IDE\WIN10\user_settings.h` in wolfSSL with the
+contents of `windows\fips_140_3\user_settings.h` from wolfEngine. Then, compile
+wolfSSL using `IDE\WIN10\wolfssl-fips.sln`.
+
 ### FIPS Ready
 
 First, replace the contents of `IDE\WIN10\user_settings.h` in wolfSSL with the
